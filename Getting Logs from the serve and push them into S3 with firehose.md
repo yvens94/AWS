@@ -157,7 +157,7 @@ At the end the config file should look like:
 #### Navigate to the home directory
     cd ~
 
-# Generate 500,000 logs
+#### Generate 500,000 logs
     sudo ./LogGenerator.py 500000
 
 #### Check if the logs are present in the specified directory
