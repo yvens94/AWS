@@ -6,7 +6,7 @@
 ![image](https://github.com/yvens94/AWSEcommerceAnalyticsInfrastructure/assets/68969793/6fcc8892-d453-4d37-b3e8-2b9c76ad1e4b)
 
 ## Project Objective
-Vensyshop, an ecommerce platform, aims to leverage AWS services to enhance its operations. The key focus areas include:
+Cababra, an ecommerce , aims to leverage AWS services to enhance its operations. The key focus areas include:
 
 ### Order History Service:
 
