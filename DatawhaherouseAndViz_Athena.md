@@ -1,6 +1,6 @@
 # Data wharehouse in S3 and visualization pipeline from s3 with Glue and Amazon Athena 
 
-## Setting up AWS Glue for Data Lake Schema Inference:
+### Setting up AWS Glue for Data Lake Schema Inference:
 
 ### Navigate to AWS Console:
 
