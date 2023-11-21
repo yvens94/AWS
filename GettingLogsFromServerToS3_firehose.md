@@ -1,4 +1,4 @@
-# Log server to S3 by Kinesis data Firehose
+# Logs streaming from the server to S3 by Kinesis data Firehose
 
 To push data from a server to Amazon S3 using Kinesis Data Firehose, you can follow these general steps:
 
