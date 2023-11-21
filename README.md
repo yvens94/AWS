@@ -23,7 +23,7 @@ Leverage AWS analytics tools to monitor and analyze logs promptly.
 Develop a recommender system for personalized user experiences.
 Integrate a notification system to keep users informed about relevant updates and recommendations.
 
-### Data Warehouse and Analytics Requirements:
+### Data Warehouse and visualization Requirements:
 
 Establish a comprehensive data warehouse to consolidate and manage diverse datasets.
 Utilize AWS analytics languages and tools for in-depth data analysis, extracting valuable insights to drive business decisions.
