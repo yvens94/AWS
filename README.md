@@ -10,7 +10,7 @@ Cababra, an ecommerce , aims to leverage AWS services to enhance its operations.
 
 ### Order History Service:
 
-Enable seamless access to order history directly from the Vensyshop mobile application.
+Enable seamless access to order history directly from the Cadabra mobile application.
 Utilize AWS services to ensure efficient storage and retrieval of historical order data.
 
 ### Log Analysis in Near Real-Time:
