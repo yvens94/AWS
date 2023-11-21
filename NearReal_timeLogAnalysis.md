@@ -217,7 +217,7 @@ and if we disable the filter we can see that we have periodic pikes of error
 
 
 We've actually gone through the entire pipeline
-of setting up some fake server log data on an EC2 host
+of setting up some server log data on an EC2 host
 using the Kinesis agent to put that
 into a Kinesis Firehose delivery stream.
 That delivery stream is using a Lambda application
