@@ -1,5 +1,5 @@
 
-# Cadabra Ecommerce Analytics Infrastructure on AWS.
+# Cadabra Ecommerce Analytics and ML solution on AWS.
 
 ## Diagram of the AWS services used and how we integrated them
 
