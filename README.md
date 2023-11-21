@@ -1,5 +1,5 @@
 
-# Vensyshop Ecommerce Analytics Infrastructure on AWS.
+# Cadabra Ecommerce Analytics Infrastructure on AWS.
 
 ## Diagram of the AWS services used and how we integrated them
 
