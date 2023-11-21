@@ -175,6 +175,9 @@ Caused by: com.amazon.ws.emr.hadoop.fs.shaded.com.amazonaws.services.s3.model.Am
 Changed IAM policy to grant list objectv2 permission and 
 yeiiii
 
+![638361728861586212](https://github.com/yvens94/AWSEcommerceAnalyticsInfrastructure/assets/68969793/e9f9db99-784b-4919-bdfc-b49f41574062)
+
+
 We got recommendations!
 
 Remember to terminate the cluster, we did program it to terminate after 1 hour, let's not rely on that
