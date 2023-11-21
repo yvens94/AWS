@@ -175,7 +175,8 @@ Caused by: com.amazon.ws.emr.hadoop.fs.shaded.com.amazonaws.services.s3.model.Am
 Changed IAM policy to grant list objectv2 permission and 
 yeiiii
 
-![638361728861586212](https://github.com/yvens94/AWSEcommerceAnalyticsInfrastructure/assets/68969793/e9f9db99-784b-4919-bdfc-b49f41574062)
+![638361729710379458](https://github.com/yvens94/AWSEcommerceAnalyticsInfrastructure/assets/68969793/20c8cf83-8065-4ad8-946a-6483e3ea13d8)
+
 
 
 We got recommendations!
